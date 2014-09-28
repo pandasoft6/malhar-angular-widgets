@@ -5,7 +5,7 @@ angular-widgets
 
  Widget Library (Line Chart, Bar Chart, Top N and more).
 
- [Online Demo](http://datatorrent.github.io/malhar-dashboard-webapp/#/) using the library [[source code](https://github.com/DataTorrent/malhar-dashboard-webapp)]
+ [Online Demo](http://datatorrent.github.io/malhar-dashboard-webapp/#/) using the library [[source code](https://github.com/pandasoft6/malhar-angular-widgets/)]
 
 ![AngularJS Dashboard](docs/AngularJSDashboard.png "AngularJS Dashboard")
 
